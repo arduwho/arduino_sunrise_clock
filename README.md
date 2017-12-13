@@ -9,6 +9,9 @@ Starting from a preset number of minutes before the desired wakeup time, the LED
 I built mine from the following main parts:
 
 Clone Arduino Pro Mini
+
 DS1307 RTC
+
 16x2 LCD display
+
 LED strip lighting
